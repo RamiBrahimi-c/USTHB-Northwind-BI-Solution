@@ -1,6 +1,6 @@
 # Rapport de Projet Business Intelligence : Solution Northwind Traders
 
-**Auteur :** [Votre Nom]  
+**Auteur :** Brahimi Rami Chems Eddin  
 **Université :** USTHB - Faculté d'Informatique  
 **Spécialité :** Big Data Analytics  
 **Date :** 15 Décembre 2025  
