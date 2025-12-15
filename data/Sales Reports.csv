@@ -1,0 +1,6 @@
+Group By,Display,Title,Filter Row Source,Default
+Category,Category,Sales By Category,SELECT DISTINCT [Category] FROM [Products] ORDER BY [Category];,FALSE
+Country/Region,Country/Region,Sales By Country,SELECT DISTINCT [Country/Region] FROM [Customers Extended] ORDER BY [Country/Region];,FALSE
+Customer ID,Customer,Sales By Customer,SELECT DISTINCT [Company] FROM [Customers Extended] ORDER BY [Company];,FALSE
+Employee ID,Employee,Sales By Employee,SELECT DISTINCT [Employee Name] FROM [Employees Extended] ORDER BY [Employee Name];,FALSE
+Product ID,Product,Sales by Product,SELECT DISTINCT [Product Name] FROM [Products] ORDER BY [Product Name];,TRUE

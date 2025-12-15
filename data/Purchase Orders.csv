@@ -1,0 +1,29 @@
+Purchase Order ID,Supplier ID,Created By,Submitted Date,Creation Date,Status ID,Expected Date,Shipping Fee,Taxes,Payment Date,Payment Amount,Payment Method,Notes,Approved By,Approved Date,Submitted By
+90,Supplier A,Andrew Cencini,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,1/22/2006,Andrew Cencini
+91,Supplier C,Andrew Cencini,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,1/22/2006,Andrew Cencini
+92,Supplier B,Andrew Cencini,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,1/22/2006,Andrew Cencini
+93,Supplier E,Andrew Cencini,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,1/22/2006,Andrew Cencini
+94,Supplier F,Andrew Cencini,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,1/22/2006,Andrew Cencini
+95,Supplier D,Andrew Cencini,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,1/22/2006,Andrew Cencini
+96,Supplier A,Steven Thorpe,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #30,Andrew Cencini,1/22/2006,Steven Thorpe
+97,Supplier B,Robert Zare,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #33,Andrew Cencini,1/22/2006,Robert Zare
+98,Supplier B,Mariya Sergienko,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #36,Andrew Cencini,1/22/2006,Mariya Sergienko
+99,Supplier A,Jan Kotas,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #38,Andrew Cencini,1/22/2006,Jan Kotas
+100,Supplier B,Anne Hellung-Larsen,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #39,Andrew Cencini,1/22/2006,Anne Hellung-Larsen
+101,Supplier A,Andrew Cencini,1/14/2006,1/22/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #40,Andrew Cencini,1/22/2006,Andrew Cencini
+102,Supplier A,Nancy Freehafer,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #41,Andrew Cencini,4/4/2006,Nancy Freehafer
+103,Supplier B,Nancy Freehafer,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #42,Andrew Cencini,4/4/2006,Nancy Freehafer
+104,Supplier B,Nancy Freehafer,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #45,Andrew Cencini,4/4/2006,Nancy Freehafer
+105,Supplier E,Robert Zare,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,Check,Purchase generated based on Order #46,Andrew Cencini,4/4/2006,Robert Zare
+106,Supplier F,Robert Zare,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #46,Andrew Cencini,4/4/2006,Robert Zare
+107,Supplier A,Michael Neipper,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #47,Andrew Cencini,4/4/2006,Michael Neipper
+108,Supplier B,Mariya Sergienko,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #48,Andrew Cencini,4/4/2006,Mariya Sergienko
+109,Supplier B,Mariya Sergienko,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #48,Andrew Cencini,4/4/2006,Mariya Sergienko
+110,Supplier A,Jan Kotas,3/24/2006,3/24/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #49,Andrew Cencini,4/4/2006,Jan Kotas
+111,Supplier A,Andrew Cencini,3/31/2006,3/31/2006,Approved,,0.00 €,0.00 €,,0.00 €,,Purchase generated based on Order #56,Andrew Cencini,4/4/2006,Andrew Cencini
+140,Supplier F,,4/25/2006,4/25/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,4/25/2006,Andrew Cencini
+141,Supplier H,,4/25/2006,4/25/2006,Approved,,0.00 €,0.00 €,,0.00 €,,,Andrew Cencini,4/25/2006,Andrew Cencini
+142,Supplier H,,4/25/2006,4/25/2006,Approved,,0.00 €,0.00 €,,0.00 €,Check,,Andrew Cencini,4/25/2006,Andrew Cencini
+146,Supplier B,Andrew Cencini,4/26/2006,4/26/2006,Submitted,,0.00 €,0.00 €,,0.00 €,,,,,Andrew Cencini
+147,Supplier G,Andrew Cencini,4/26/2006,4/26/2006,Submitted,,0.00 €,0.00 €,,0.00 €,,,,,Andrew Cencini
+148,Supplier E,Andrew Cencini,4/26/2006,4/26/2006,Submitted,,0.00 €,0.00 €,,0.00 €,,,,,Andrew Cencini

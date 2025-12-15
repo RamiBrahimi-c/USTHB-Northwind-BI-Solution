@@ -1,0 +1,56 @@
+ID,Purchase Order ID,Product,Quantity,Unit Cost,Date Received,Posted To Inventory,Inventory ID
+238,90,Northwind Traders Chai,40,14.00 €,1/22/2006,TRUE,59
+239,91,Northwind Traders Syrup,100,8.00 €,1/22/2006,TRUE,54
+240,91,Northwind Traders Cajun Seasoning,40,16.00 €,1/22/2006,TRUE,55
+241,91,Northwind Traders Olive Oil,40,16.00 €,1/22/2006,TRUE,56
+242,92,Northwind Traders Boysenberry Spread,100,19.00 €,1/22/2006,TRUE,40
+243,92,Northwind Traders Dried Pears,40,22.00 €,1/22/2006,TRUE,41
+244,92,Northwind Traders Curry Sauce,40,30.00 €,1/22/2006,TRUE,42
+245,92,Northwind Traders Walnuts,40,17.00 €,1/22/2006,TRUE,43
+246,92,Northwind Traders Fruit Cocktail,40,29.00 €,1/22/2006,TRUE,44
+247,92,Northwind Traders Chocolate Biscuits Mix,20,7.00 €,1/22/2006,TRUE,45
+248,92,Northwind Traders Marmalade,40,61.00 €,1/22/2006,TRUE,46
+249,92,Northwind Traders Scones,20,8.00 €,1/22/2006,TRUE,47
+250,90,Northwind Traders Beer,60,10.00 €,1/22/2006,TRUE,60
+251,92,Northwind Traders Crab Meat,120,14.00 €,1/22/2006,TRUE,48
+252,92,Northwind Traders Clam Chowder,40,7.00 €,1/22/2006,TRUE,49
+253,90,Northwind Traders Coffee,100,34.00 €,1/22/2006,TRUE,61
+254,92,Northwind Traders Chocolate,100,10.00 €,1/22/2006,TRUE,50
+255,92,Northwind Traders Dried Apples,40,40.00 €,1/22/2006,TRUE,51
+256,93,Northwind Traders Long Grain Rice,100,5.00 €,1/22/2006,TRUE,37
+257,93,Northwind Traders Gnocchi,120,28.00 €,1/22/2006,TRUE,38
+258,93,Northwind Traders Ravioli,80,15.00 €,1/22/2006,TRUE,39
+259,91,Northwind Traders Hot Pepper Sauce,40,16.00 €,1/22/2006,TRUE,57
+260,91,Northwind Traders Tomato Sauce,80,13.00 €,1/22/2006,TRUE,58
+261,94,Northwind Traders Mozzarella,40,26.00 €,1/22/2006,TRUE,36
+262,92,Northwind Traders Almonds,20,8.00 €,1/22/2006,TRUE,52
+263,92,Northwind Traders Mustard,60,10.00 €,1/22/2006,TRUE,53
+264,95,Northwind Traders Dried Plums,75,3.00 €,1/22/2006,TRUE,35
+265,90,Northwind Traders Green Tea,125,2.00 €,1/22/2006,TRUE,62
+266,96,Northwind Traders Beer,100,10.00 €,1/22/2006,TRUE,82
+267,97,Northwind Traders Chocolate Biscuits Mix,30,7.00 €,1/22/2006,TRUE,80
+268,98,Northwind Traders Clam Chowder,200,7.00 €,1/22/2006,TRUE,78
+269,99,Northwind Traders Coffee,300,34.00 €,1/22/2006,TRUE,76
+270,100,Northwind Traders Chocolate,100,10.00 €,1/22/2006,TRUE,74
+271,101,Northwind Traders Green Tea,200,2.00 €,1/22/2006,TRUE,72
+272,102,Northwind Traders Coffee,300,34.00 €,,FALSE,
+273,103,Northwind Traders Chocolate Biscuits Mix,10,7.00 €,4/17/2006,TRUE,111
+274,104,Northwind Traders Clam Chowder,50,7.00 €,4/6/2006,TRUE,115
+275,105,Northwind Traders Ravioli,100,15.00 €,4/5/2006,TRUE,100
+276,106,Northwind Traders Mozzarella,50,26.00 €,4/5/2006,TRUE,113
+277,107,Northwind Traders Beer,300,10.00 €,4/5/2006,TRUE,107
+278,108,Northwind Traders Curry Sauce,25,30.00 €,4/5/2006,TRUE,105
+279,109,Northwind Traders Chocolate Biscuits Mix,25,7.00 €,4/5/2006,TRUE,109
+280,110,Northwind Traders Coffee,250,34.00 €,4/10/2006,TRUE,103
+281,90,Northwind Traders Chai,40,14.00 €,,FALSE,
+282,92,Northwind Traders Chocolate Biscuits Mix,20,7.00 €,,FALSE,
+283,111,Northwind Traders Beer,50,10.00 €,4/4/2006,TRUE,102
+285,91,Northwind Traders Syrup,50,8.00 €,,FALSE,
+286,91,Northwind Traders Cajun Seasoning,40,16.00 €,,FALSE,
+288,140,Northwind Traders Brownie Mix,10,9.00 €,,FALSE,
+289,141,Northwind Traders Boysenberry Spread,10,18.75 €,,FALSE,
+290,142,Northwind Traders Chai,1,13.50 €,,FALSE,
+292,146,Northwind Traders Marmalade,40,60.00 €,,FALSE,
+293,146,Northwind Traders Dried Apples,40,39.00 €,,FALSE,
+294,147,Northwind Traders Crab Meat,120,13.00 €,,FALSE,
+295,148,Northwind Traders Mozzarella,40,26.00 €,,FALSE,

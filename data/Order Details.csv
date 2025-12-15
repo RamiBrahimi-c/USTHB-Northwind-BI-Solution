@@ -1,0 +1,59 @@
+ID,Order ID,Product,Quantity,Unit Price,Discount,Status ID,Date Allocated,Purchase Order ID,Inventory ID
+27,30,Northwind Traders Beer,100,14,0%,Invoiced,,96,83
+28,30,Northwind Traders Dried Plums,30,3.5,0%,Invoiced,,,63
+29,31,Northwind Traders Dried Pears,10,30,0%,Invoiced,,,64
+30,31,Northwind Traders Dried Apples,10,53,0%,Invoiced,,,65
+31,31,Northwind Traders Dried Plums,10,3.5,0%,Invoiced,,,66
+32,32,Northwind Traders Chai,15,18,0%,Invoiced,,,67
+33,32,Northwind Traders Coffee,20,46,0%,Invoiced,,,68
+34,33,Northwind Traders Chocolate Biscuits Mix,30,9.2,0%,Invoiced,,97,81
+35,34,Northwind Traders Chocolate Biscuits Mix,20,9.2,0%,Invoiced,,,69
+36,35,Northwind Traders Chocolate,10,12.75,0%,Invoiced,,,70
+37,36,Northwind Traders Clam Chowder,200,9.65,0%,Invoiced,,98,79
+38,37,Northwind Traders Curry Sauce,17,40,0%,Invoiced,,,71
+39,38,Northwind Traders Coffee,300,46,0%,Invoiced,,99,77
+40,39,Northwind Traders Chocolate,100,12.75,0%,Invoiced,,100,75
+41,40,Northwind Traders Green Tea,200,2.99,0%,Invoiced,,101,73
+42,41,Northwind Traders Coffee,300,46,0%,Allocated,,102,104
+43,42,Northwind Traders Boysenberry Spread,10,25,0%,Invoiced,,,84
+44,42,Northwind Traders Cajun Seasoning,10,22,0%,Invoiced,,,85
+45,42,Northwind Traders Chocolate Biscuits Mix,10,9.2,0%,Invoiced,,103,110
+46,43,Northwind Traders Dried Plums,20,3.5,0%,Allocated,,,86
+47,43,Northwind Traders Green Tea,50,2.99,0%,Allocated,,,87
+48,44,Northwind Traders Chai,25,18,0%,Allocated,,,88
+49,44,Northwind Traders Coffee,25,46,0%,Allocated,,,89
+50,44,Northwind Traders Green Tea,25,2.99,0%,Allocated,,,90
+51,45,Northwind Traders Clam Chowder,50,9.65,0%,Invoiced,,104,116
+52,45,Northwind Traders Crab Meat,50,18.4,0%,Invoiced,,,91
+53,46,Northwind Traders Ravioli,100,19.5,0%,Invoiced,,105,101
+54,46,Northwind Traders Mozzarella,50,34.8,0%,Invoiced,,106,114
+55,47,Northwind Traders Beer,300,14,0%,Invoiced,,107,108
+56,48,Northwind Traders Curry Sauce,25,40,0%,Invoiced,,108,106
+57,48,Northwind Traders Chocolate Biscuits Mix,25,9.2,0%,Invoiced,,109,112
+59,50,Northwind Traders Scones,20,10,0%,Invoiced,,,92
+60,51,Northwind Traders Olive Oil,25,21.35,0%,Invoiced,,,93
+61,51,Northwind Traders Clam Chowder,30,9.65,0%,Invoiced,,,94
+62,51,Northwind Traders Crab Meat,30,18.4,0%,Invoiced,,,95
+66,56,Northwind Traders Chocolate,10,12.75,0%,Invoiced,,111,99
+67,55,Northwind Traders Beer,87,14,0%,Invoiced,,,117
+68,79,Northwind Traders Dried Pears,30,30,0%,Invoiced,,,119
+69,79,Northwind Traders Dried Apples,30,53,0%,Invoiced,,,118
+70,78,Northwind Traders Fruit Cocktail,40,39,0%,Invoiced,,,120
+71,77,Northwind Traders Boysenberry Spread,90,25,0%,Invoiced,,,121
+72,76,Northwind Traders Cajun Seasoning,30,22,0%,Invoiced,,,122
+73,75,Northwind Traders Chocolate,40,12.75,0%,Invoiced,,,123
+74,74,Northwind Traders Chocolate,40,12.75,0%,Invoiced,,,124
+75,73,Northwind Traders Clam Chowder,10,9.65,0%,Invoiced,,,125
+76,72,Northwind Traders Coffee,5,46,0%,Invoiced,,,126
+77,71,Northwind Traders Crab Meat,40,18.4,0%,Invoiced,,,127
+78,70,Northwind Traders Curry Sauce,20,40,0%,Invoiced,,,128
+79,69,Northwind Traders Dried Plums,15,3.5,0%,Invoiced,,,129
+80,67,Northwind Traders Almonds,20,10,0%,Invoiced,,,130
+81,60,Northwind Traders Mozzarella,40,34.8,0%,Invoiced,,,131
+82,63,Northwind Traders Syrup,50,10,0%,Invoiced,,,132
+83,63,Northwind Traders Curry Sauce,3,40,0%,Invoiced,,,133
+84,58,Northwind Traders Marmalade,40,81,0%,Invoiced,,,134
+85,58,Northwind Traders Long Grain Rice,40,7,0%,Invoiced,,,135
+86,80,Northwind Traders Gnocchi,10,38,0%,Allocated,,,136
+90,81,Northwind Traders Green Tea,0,2.99,0%,No Stock,,,
+91,81,Northwind Traders Gnocchi,0,38,0%,None,,,

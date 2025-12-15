@@ -1,0 +1,49 @@
+Order ID,Employee,Customer,Order Date,Shipped Date,Ship Via,Ship Name,Ship Address,Ship City,Ship State/Province,Ship ZIP/Postal Code,Ship Country/Region,Shipping Fee,Taxes,Payment Type,Paid Date,Notes,Tax Rate,Tax Status,Status ID
+30,Anne Hellung-Larsen,Company AA,01/15/2024,01/22/2006,Shipping Company B,Karen Toh,789 27th Street,Las Vegas,NV,99999,USA,200,0,Check,01/15/2006,,0,,Closed
+31,Jan Kotas,Company D,01/20/2024,01/22/2006,Shipping Company A,Christina Lee,123 4th Street,New York,NY,99999,USA,5,0,Credit Card,01/20/2006,,0,,Closed
+32,Mariya Sergienko,Company L,01/22/2024,01/22/2006,Shipping Company B,John Edwards,123 12th Street,Las Vegas,NV,99999,USA,5,0,Credit Card,01/22/2006,,0,,Closed
+33,Michael Neipper,Company H,01/30/2023,01/31/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Credit Card,01/30/2006,,0,,Closed
+34,Anne Hellung-Larsen,Company D,02/06/2024,02/07/2006,Shipping Company C,Christina Lee,123 4th Street,New York,NY,99999,USA,4,0,Check,02/06/2006,,0,,Closed
+35,Jan Kotas,Company CC,02/10/2023,02/12/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,7,0,Check,02/10/2006,,0,,Closed
+36,Mariya Sergienko,Company C,02/23/2023,02/25/2006,Shipping Company B,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,7,0,Cash,02/23/2006,,0,,Closed
+37,Laura Giussani,Company F,03/06/2025,03/09/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,12,0,Credit Card,03/06/2006,,0,,Closed
+38,Anne Hellung-Larsen,Company BB,03/10/2024,03/11/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,10,0,Check,03/10/2006,,0,,Closed
+39,Jan Kotas,Company H,03/22/2024,03/24/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,5,0,Check,03/22/2006,,0,,Closed
+40,Mariya Sergienko,Company J,03/24/2025,03/24/2006,Shipping Company B,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,9,0,Credit Card,03/24/2006,,0,,Closed
+41,Nancy Freehafer,Company G,03/24/2025,,,Ming-Yang Xie,123 7th Street,Boise,ID,99999,USA,0,0,,,,0,,New
+42,Nancy Freehafer,Company J,03/24/2023,04/07/2006,Shipping Company A,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,0,0,,,,0,,Shipped
+43,Nancy Freehafer,Company K,03/24/2025,,Shipping Company C,Peter Krschne,123 11th Street,Miami,FL,99999,USA,0,0,,,,0,,New
+44,Nancy Freehafer,Company A,03/24/2025,,,Anna Bedecs,123 1st Street,Seattle,WA,99999,USA,0,0,,,,0,,New
+45,Nancy Freehafer,Company BB,04/07/2025,04/07/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,40,0,Credit Card,04/07/2006,,0,,Closed
+46,Robert Zare,Company I,04/05/2025,04/05/2006,Shipping Company A,Sven Mortensen,123 9th Street,Salt Lake City,UT,99999,USA,100,0,Check,04/05/2006,,0,,Closed
+47,Michael Neipper,Company F,04/08/2025,04/08/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,300,0,Credit Card,04/08/2006,,0,,Closed
+48,Mariya Sergienko,Company H,04/05/2025,04/05/2006,Shipping Company B,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Check,04/05/2006,,0,,Closed
+50,Anne Hellung-Larsen,Company Y,04/05/2023,04/05/2006,Shipping Company A,John Rodman,789 25th Street,Chicago,IL,99999,USA,5,0,Cash,04/05/2006,,0,,Closed
+51,Anne Hellung-Larsen,Company Z,04/05/2023,04/05/2006,Shipping Company C,Run Liu,789 26th Street,Miami,FL,99999,USA,60,0,Credit Card,04/05/2006,,0,,Closed
+55,Nancy Freehafer,Company CC,04/05/2023,04/05/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,200,0,Check,04/05/2006,,0,,Closed
+56,Andrew Cencini,Company F,04/03/2023,04/03/2006,Shipping Company C,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,0,0,Check,04/03/2006,,0,,Closed
+57,Anne Hellung-Larsen,Company AA,04/22/2025,04/22/2006,Shipping Company B,Karen Toh,789 27th Street,Las Vegas,NV,99999,USA,200,0,Check,04/22/2006,,0,,New
+58,Jan Kotas,Company D,04/22/2025,04/22/2006,Shipping Company A,Christina Lee,123 4th Street,New York,NY,99999,USA,5,0,Credit Card,04/22/2006,,0,,Closed
+59,Mariya Sergienko,Company L,04/22/2024,04/22/2006,Shipping Company B,John Edwards,123 12th Street,Las Vegas,NV,99999,USA,5,0,Credit Card,04/22/2006,,0,,New
+60,Michael Neipper,Company H,04/30/2024,04/30/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Credit Card,04/30/2006,,0,,Closed
+61,Anne Hellung-Larsen,Company D,04/07/2025,04/07/2006,Shipping Company C,Christina Lee,123 4th Street,New York,NY,99999,USA,4,0,Check,04/07/2006,,0,,New
+62,Jan Kotas,Company CC,04/12/2025,04/12/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,7,0,Check,04/12/2006,,0,,New
+63,Mariya Sergienko,Company C,04/25/2025,04/25/2006,Shipping Company B,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,7,0,Cash,04/25/2006,,0,,Closed
+64,Laura Giussani,Company F,05/09/2023,05/09/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,12,0,Credit Card,05/09/2006,,0,,New
+65,Anne Hellung-Larsen,Company BB,05/11/2023,05/11/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,10,0,Check,05/11/2006,,0,,New
+66,Jan Kotas,Company H,05/24/2024,05/24/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,5,0,Check,05/24/2006,,0,,New
+67,Mariya Sergienko,Company J,05/24/2024,05/24/2006,Shipping Company B,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,9,0,Credit Card,05/24/2006,,0,,Closed
+68,Nancy Freehafer,Company G,05/24/2024,,,Ming-Yang Xie,123 7th Street,Boise,ID,99999,USA,0,0,,,,0,,New
+69,Nancy Freehafer,Company J,05/24/2023,,Shipping Company A,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,0,0,,,,0,,New
+70,Nancy Freehafer,Company K,05/24/2025,,Shipping Company C,Peter Krschne,123 11th Street,Miami,FL,99999,USA,0,0,,,,0,,New
+71,Nancy Freehafer,Company A,05/24/2023,,Shipping Company C,Anna Bedecs,123 1st Street,Seattle,WA,99999,USA,0,0,,,,0,,New
+72,Nancy Freehafer,Company BB,06/07/2023,06/07/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,40,0,Credit Card,06/07/2006,,0,,Closed
+73,Robert Zare,Company I,06/05/2025,06/05/2006,Shipping Company A,Sven Mortensen,123 9th Street,Salt Lake City,UT,99999,USA,100,0,Check,06/05/2006,,0,,Closed
+74,Michael Neipper,Company F,06/08/2025,06/08/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,300,0,Credit Card,06/08/2006,,0,,Closed
+75,Mariya Sergienko,Company H,06/05/2024,06/05/2006,Shipping Company B,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Check,06/05/2006,,0,,Closed
+76,Anne Hellung-Larsen,Company Y,06/05/2025,06/05/2006,Shipping Company A,John Rodman,789 25th Street,Chicago,IL,99999,USA,5,0,Cash,06/05/2006,,0,,Closed
+77,Anne Hellung-Larsen,Company Z,06/05/2025,06/05/2006,Shipping Company C,Run Liu,789 26th Street,Miami,FL,99999,USA,60,0,Credit Card,06/05/2006,,0,,Closed
+78,Nancy Freehafer,Company CC,06/05/2024,06/05/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,200,0,Check,06/05/2006,,0,,Closed
+79,Andrew Cencini,Company F,06/23/2024,06/23/2006,Shipping Company C,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,0,0,Check,06/23/2006,,0,,Closed
+80,Andrew Cencini,Company D,04/25/2024 17:03:55,,,Christina Lee,123 4th Street,New York,NY,99999,USA,0,0,,,,0,,New
+81,Andrew Cencini,Company C,04/25/2024 17:26:53,,,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,0,0,,,,0,,New

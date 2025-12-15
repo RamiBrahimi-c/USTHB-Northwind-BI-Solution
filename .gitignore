@@ -1,0 +1,31 @@
+# Python Virtual Environment
+myenv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# LaTeX Compilation Junk (Keep report.pdf)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Large Media Files (Video)
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# Compressed Archives
+*.zip
+*.tar.gz
+
+# System & IDE
+.vscode/
+.idea/
+.DS_Store*.mkv
+*.mkv
